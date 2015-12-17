@@ -6,6 +6,6 @@ description: "业余爱好的点滴记录，同时作为配置备份的存储地
 
 #### ChangeLog
 
-- 2014年8月:    放弃 JB，转为 Jekyll，重新制作了模板
+- 2015年12月： 使用JEKYLL模版  
 
 {% include comments.html %}
